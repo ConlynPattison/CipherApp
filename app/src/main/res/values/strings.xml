@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CipherApp</string>
+    <string name="enter_hint">Text to be encrypted…</string>
+    <string name="enter_shift_hint">Shift value [1–25]…</string>
+    <string name="button_submit_text">Submit</string>
+    <string name="button_return">Another cipher</string>
+    <string name="result_label">Cipher Result</string>
+    <string name="result_text_default">No message was given…</string>
+    <string name="choose_text">Select from the following:</string>
+    <string name="btn_encrypt_text">Encrypt Message</string>
+    <string name="tv_encrypt_text">Use a cipher on your message</string>
+    <string name="btn_decrypt_text">Decrypt Message</string>
+    <string name="tv_decrypt_text">Solve for a hidden message</string>
+    <string name="btn_encrypt_return2choice_text">Return home</string>
+    <string name="btn_decrypt_return2choice_text">Return home</string>
+    <string name="btn_decrypt_message_text">Decrypt Message</string>
+    <string name="edT_decrypt_hint">Message to be decrypted…</string>
+    <string name="button_decrypt_return">Another message</string>
+</resources>
